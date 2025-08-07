@@ -2,30 +2,29 @@
 A passionate Flutter Developer from Pakistan
 
 - 🔭 I’m currently working on  simplifies appointment booking for clinics and patients in remote areas.
-- 🌱 I’m currently learning [What You’re Learning]
-- 👯 I’m looking to collaborate on [Project/Area]
-- 👨‍💻 All of my projects are available at [Your Portfolio URL]
-- 📝 I regularly write articles on [Blog URL]
-- 💬 Ask me about [Topics]
+- 🌱 I’m currently learning Restfull Api
 - 📫 How to reach me: ma0951628@gmail.com
 - 📄 Know about my experiences https://www.linkedin.com/in/muhammad-ayaz-405b96248/
-- ⚡ Fun fact: [Fun Fact]
+
 
 ---
 
 ### 🛠️ Languages and Tools:
 
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat&logo=kotlin)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
-<!-- Add more badges as needed -->
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
 
 ---
 
 ### 📱 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/Muhammad Ayaz/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/muhammad-ayaz-405b96248/)
 
